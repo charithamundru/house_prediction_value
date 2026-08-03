@@ -1,0 +1,8 @@
+{
+  "Model": "LinearRegression",
+  "RMSE": 19658.1743,
+  "MAE": 15596.1205,
+  "R2": 0.9601,
+  "BestParameters": {},
+  "TargetLogTransformed": false
+}

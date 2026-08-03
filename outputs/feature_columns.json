@@ -1,0 +1,9 @@
+{
+  "target": "price",
+  "features": [
+    "square_feet",
+    "num_rooms",
+    "age",
+    "distance_to_city(km)"
+  ]
+}
